@@ -1,0 +1,6 @@
+{
+  "name": "WEB CITY: CODE QUEST",
+  "description": "Explore the City. Master the Web. เกมผจญภัยเพื่อการศึกษาสำหรับนักเรียน ปวช.1 รายวิชาการสร้างเว็บไซต์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
